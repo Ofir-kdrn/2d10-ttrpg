@@ -21,10 +21,7 @@ Warrior subclasses in mind:</p>
 </ul>
 <h2 id="mage">Mage</h2>
 <p>Mages rely heavily on spellcasting in their adventuring career. Most mages will prefer to stay away from the front lines and support their party with buffs, crowd control and ranged powerful spells. Mages rely heavily on maintaining a Focus and managing their Spell Slots - which represents the magical energy the expend when casting powerful spells.</p>
-<p>mage subclasses in mind:</p>
-<ul>
-<li>I don’t know how I want to build this class</li>
-</ul>
+<p>Mages are unique in that they don’t have any subclasses. Instead they are built with modules [need to rename that]. And they gain a few extra feats with which they can enhance their spellcasting.</p>
 <h2 id="rogue">Rogue</h2>
 <p>Rogues are</p>
 <h2 id="warmage">Warmage</h2>
