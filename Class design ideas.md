@@ -27,4 +27,21 @@ Warrior subclasses in mind:</p>
 </ul>
 <h2 id="rogue">Rogue</h2>
 <p>Rogues are</p>
+<h2 id="warmage">Warmage</h2>
+<p>Warmages are experts in combining armed combat with spellcasting. Depending on the subclass, warmages might use any combination of spell slots, stamina points, Focus and Stances.<br>
+Warmage subclasses in mind:</p>
+<ul>
+<li>Cleric (need to think of a better name)</li>
+<li>Eldritch knight (actually more similar to the Paladin than the actual eldritch knight)</li>
+<li>Bladesinger</li>
+</ul>
+<h2 id="scout">Scout</h2>
+<p>Scouts are light on their feet and and provide a lot of utility to any adventuring group.<br>
+Subclasses in mind:</p>
+<ul>
+<li>Beast Master</li>
+<li>Monster Hunter (=5e ranger without magic)</li>
+<li>Swashbuckler</li>
+<li></li>
+</ul>
 
