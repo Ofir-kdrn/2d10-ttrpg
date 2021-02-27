@@ -43,9 +43,12 @@ If you roll a 1 on one of the dice - something bad happens unexpectedly. If the 
 
 ## Critical Hit
 When making an attack roll, a critical success is considered a critical hit. If the total of the roll is equal or greater than the target AC - the attack hits and the damage roll is doubled.
-If the total of the roll is smaller than the target AC, the attack still hits
+If the total of the roll is smaller than the target AC, the attack still hits and causes the normal damage.
+
+## Fumbles
+When making an attack roll, a critical failure is considered a fumble. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzgwNDkyOSwxNjgyNzIwNzAsLTE2ND
-M4NDI0OThdfQ==
+eyJoaXN0b3J5IjpbLTQzODYwNjYyLDE2ODI3MjA3MCwtMTY0Mz
+g0MjQ5OF19
 -->
