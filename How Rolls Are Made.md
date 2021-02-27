@@ -32,8 +32,9 @@ Advantage & disadvantage can stack with one another, or cancel each other out.
 
 Example: Vigo the ranger is ambushing a goblin scouting party. The goblins are surprised, so he has advantage on the attack roll. He is also hiding in the bushes, so he has another advantage. However- the goblins, however, are barely visible in the high brush, and enjoy half-cover, giving disadvantage to all attacks made against them. Totaling those circumstantial effects, Vigo has an advantage of 1 to the attack roll. So he rolls 3d10 and chooses the 2 highest numbers.
 
-Example 2: The goblins recover from Vigo's surprise attack and move in to eliminate the threat. Their leader is giving his soldiers a moral boost, granting them advantage. However- the goblins out of the optimal range of their slings, so they have disadvantage. Vigo is firing from a prone position, which means ranged attacks against him has disadvantage. 
+Example 2: The goblins recover from Vigo's surprise attack and move in to eliminate the threat. Their leader is giving his soldiers a moral boost, granting them advantage. However- the goblins out of the optimal range of their slings, so they have disadvantage. Vigo is firing from a prone position, which means ranged attacks against him has disadvantage. Finally, Vigo is under the effects of a *blur* spell, which gives disadvantage to all attack rolls against him disadvantage.
+Totaling those circumstantial effects, The gohas an advantage of 1 to the attack roll. So he rolls 3d10 and chooses the 2 highest numbers.Totaling those circumstantial effects, Vigo has an advantage of 1 to the attack roll. So he rolls 3d10 and chooses the 2 highest numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjQ1MTgyNiwxNjgyNzIwNzAsLTE2ND
+eyJoaXN0b3J5IjpbMTgzMzkzODczNiwxNjgyNzIwNzAsLTE2ND
 M4NDI0OThdfQ==
 -->
