@@ -10,7 +10,6 @@
 <li>Weapon fighting</li>
 </ul>
 <p>Most of the class abilities will come from the <strong>subclass</strong>, while a few abilities will be inherited from the class. Classes and subclasses describe game mechanics which can be explained and flavored according to the player’s desire (For example - the Beast Master subclass can either be a ranger who is connected to the forest and nature, an inventor who uses constructs in combat, or a shaman who summons spirits to fight for him).</p>
-<p>The guiding principle is</p>
 <p><img src="Class_triangle.png" alt="The 7 classes arranged around the class triangle"></p>
 <h2 id="warrior">Warrior</h2>
 <p>Heavily relies on <a href="Core_Combat_Mechanics/Focus%20and%20Stance.md">Stances</a> and <a href="Core_Combat_Mechanics/Stamina%20points">Stamina points</a>. A warrior mainly uses weapons &amp; armor to be a mighty foe in combat. They get Extra attacks and add<br>
