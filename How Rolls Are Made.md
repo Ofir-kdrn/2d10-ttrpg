@@ -18,6 +18,16 @@ Checks are.... [something something]. Like in D&D, checks can be either:
 
 ## Saving throw
 Some harmful effects require a creature to make a saving throw to determined how they are affected by it. 
+
+
+# Advantage and Disadvantage
+Advantage & disadvantage are circumstantial effects.
+If you have advantage, for each advantage you have - roll an additional d10. When calculating the sum of your roll- choose the highest 2 rolls. (Example - if you have an advantage of 3, roll 5d10, and add together the highest 2 rolls).
+-   Advantage & disadvantage can stack with one another, or cancel each other out
+
+-   if you have disadvantage, for each disadvantage you have - roll an additional d10. When calculating the sum of your roll- choose the lowest 2 rolls. (Example - if you have a disadvantage of 3, roll 5d10, and add together the lowest 2 rolls).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEyNTU0OSwtMTY0Mzg0MjQ5OF19
+eyJoaXN0b3J5IjpbLTE1NDM2ODI4NDcsLTE2NDM4NDI0OThdfQ
+==
 -->
