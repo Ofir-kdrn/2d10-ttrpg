@@ -42,9 +42,10 @@ If you roll a 10 on one of the dice - something goes exceptionally well. If the 
 If you roll a 1 on one of the dice - something bad happens unexpectedly. If the total is enough to pass the DC - you get a partial success.
 
 ## Critical Hit
-When making an attack roll, a critical success is considered a critical hit.
+When making an attack roll, a critical success is considered a critical hit. If the total of the roll is equal or greater than the target AC - the attack hits and the damage roll is doubled.
+If the total of the roll is smaller than the target AC, the attack still hits
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTk1OTEwLDE2ODI3MjA3MCwtMTY0Mz
-g0MjQ5OF19
+eyJoaXN0b3J5IjpbMTE4MzgwNDkyOSwxNjgyNzIwNzAsLTE2ND
+M4NDI0OThdfQ==
 -->
