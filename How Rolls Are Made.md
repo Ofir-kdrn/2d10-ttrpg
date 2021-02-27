@@ -37,9 +37,12 @@ Example 2: The goblins recover from Vigo's surprise attack and move in to elimin
 Totaling those circumstantial effects, The goblins have a disadvantage of 2 to the attack roll. So they roll 4d10 and choose the 2 lowest numbers.
 
 # Critical success / failure
-Sometimes, attempts go exceptionally lucky (or unlucky), Those are considered critical
+Sometimes, attempts go exceptionally lucky (or unlucky), Those are considered critical success / critical failure.
+If you roll a 10 on one of the dice - something goes exceptionally well. If the total still isn't enough to pass the DC - you get a partial success.
+If you roll a 1 on one of the dice - something bad happens unexpectedly. If the total is enough to pass the DC - you get a partial success.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgxMDc5MDYsMTY4MjcyMDcwLC0xNj
-QzODQyNDk4XX0=
+eyJoaXN0b3J5IjpbLTcwMDY3NzU3OSwxNjgyNzIwNzAsLTE2ND
+M4NDI0OThdfQ==
 -->
