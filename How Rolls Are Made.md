@@ -54,9 +54,14 @@ The attack can still hit if the roll is greater than the target AC, but the DM c
  - You drop something you are holding.
 
 ## Epic hit
-An epic hit happens when the attack roll is 10, 10. Those attacks are the stuff of legends! when Such a roll is made, the attack automatically hits, and one of the following things happen:
+An epic hit happens when the attack roll is 10, 10. Those attacks are the stuff of legends! when Such a roll is made, the attack automatically hits and the damage is doubled,. In addition, you may choose one of the following things to happen happen:
+-   You can make another attack against a different target
+-   The damage of the critical hit is tripled, instead of doubled
+-   Knock the target prone
+-   Disarm the target
 
+The DM might offer other effects as they see fit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY2NTc5NDcsMTY4MjcyMDcwLC0xNj
-QzODQyNDk4XX0=
+eyJoaXN0b3J5IjpbODY5NjUwMzQyLDE2ODI3MjA3MCwtMTY0Mz
+g0MjQ5OF19
 -->
