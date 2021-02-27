@@ -47,11 +47,14 @@ If the total of the roll is smaller than the target AC, the attack still hits an
 
 ## Fumbles
 When making an attack roll, a critical failure is considered a fumble. 
-The attack can still hit if the roll is greater than the target AC, but the DM decides . Some example for a fumble effect:
+The attack can still hit if the roll is greater than the target AC, but the DM can decide to add an additional effect. Some example for a fumble effect:
 
  - You fall prone
+ - You suffer a minor injury (~1d4 points of damage)
+ - You drop something you are holding.
 
+## Heading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODMyOTg5MywxNjgyNzIwNzAsLTE2ND
-M4NDI0OThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ2OTk2MjksMTY4MjcyMDcwLC0xNj
+QzODQyNDk4XX0=
 -->
