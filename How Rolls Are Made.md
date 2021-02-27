@@ -53,8 +53,9 @@ The attack can still hit if the roll is greater than the target AC, but the DM c
  - You suffer a minor injury (~1d4 points of damage)
  - You drop something you are holding.
 
-## Heading
+## Epic hit
+An epic hit happens when the attack roll is 10, 10. Those attacks are the stuff of legends, something which will be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ2OTk2MjksMTY4MjcyMDcwLC0xNj
+eyJoaXN0b3J5IjpbLTEzMzIwNjAyMjUsMTY4MjcyMDcwLC0xNj
 QzODQyNDk4XX0=
 -->
