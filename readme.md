@@ -10,6 +10,7 @@
 <h2 id="how-to-collaborate">How to Collaborate?</h2>
 <p>This whole project is written as .md files on a github. So you can either:</p>
 <ol>
+<li>You can edit right from within github buit-in text editor (but markdown files can be a bit annoying to edit).</li>
 <li>Clone this repo, and work on it offline using the plethora of markdown editing tools out there</li>
 <li>Do as I do, and link you github account to <a href="https://stackedit.io/app#">Stackedit</a><br>
 Once you’ve made any edits, you can just create a pull request!</li>
