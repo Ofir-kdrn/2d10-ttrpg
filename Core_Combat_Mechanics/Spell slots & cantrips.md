@@ -37,4 +37,57 @@
 </tr>
 </tbody>
 </table><p>For example: a 7th level Mage can cast the ultimate form of the Eldritch Blast cantrip by expending a single 3rd level spell slot, a 1st level spell slot and a 2nd level spell slot, or 3 1st level spell slots.</p>
+<h1 id="rituals">Rituals</h1>
+<ul>
+<li>More spells will be rituals.</li>
+<li>Spells which can be cast as rituals reduce the spell slot required to cast the spell</li>
+<li>You don’t have to know a spell in order to cast it as ritual, so long as you have access to a written form of the spell and have at least 1 level at a spell casting class.</li>
+<li>Probably works kinda like this (the numbers represent the level of the spell slot expended):</li>
+</ul>
 
+<table>
+<thead>
+<tr>
+<th>Ritual duration \ Spell level</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10 minutes</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1 hour</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8 hours</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>24 hours</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
