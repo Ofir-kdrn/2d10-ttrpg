@@ -47,8 +47,8 @@ If the total of the roll is smaller than the target AC, the attack still hits an
 
 ## Fumbles
 When making an attack roll, a critical failure is considered a fumble. 
-
+The attack can still hit if the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODYwNjYyLDE2ODI3MjA3MCwtMTY0Mz
-g0MjQ5OF19
+eyJoaXN0b3J5IjpbLTU1NDgzMzAwMiwxNjgyNzIwNzAsLTE2ND
+M4NDI0OThdfQ==
 -->
