@@ -17,5 +17,5 @@ Once you’ve made any edits, you can just create a pull request!</li>
 <h2 id="i-dont-want-to-collaborate">I Don’t Want to Collaborate</h2>
 <p>If you don’t want to collaborate, you can fork this repo to create your own private version!</p>
 <h2 id="i-just-want-to-look-around">I Just Want to Look Around</h2>
-<p>If you just want to learn about the game, I recommend starting at the Table of Content [Need to insert link] or <a href="How-Rolls-Are-Made.md">How Rolls Are Made</a></p>
+<p>If you just want to learn about the game, I recommend starting at the Table of Content [Need to insert link] or <a href="How%20Rolls%20Are%20Made.md">How Rolls Are Made</a></p>
 
