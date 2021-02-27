@@ -2,6 +2,7 @@ Something something sometimes you need to roll a die to decide if a player succe
  - [Attack roll](#Attack-roll)
  - [Check](#Check)
  - [Saving throw](#Saving-throw)
+ 
  To make an attempt, the player or the DM rolls 2d10, add the results of both dice together and add any modifiers to the roll. If the roll is greater or equal to the DC - the attempt was successful.
  
 ## Attack Roll
@@ -35,6 +36,6 @@ Example: Vigo the ranger is ambushing a goblin scouting party. The goblins are s
 Example 2: The goblins recover from Vigo's surprise attack and move in to eliminate the threat. Their leader is giving his soldiers a moral boost, granting them advantage. However- the goblins out of the optimal range of their slings, so they have disadvantage. Vigo is firing from a prone position, which means ranged attacks against him has disadvantage. Finally, Vigo is under the effects of a *blur* spell, which gives disadvantage to all attack rolls against him disadvantage.
 Totaling those circumstantial effects, The goblins have a disadvantage of 2 to the attack roll. So they roll 4d10 and choose the 2 lowest numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU3NDAxNTIsMTY4MjcyMDcwLC0xNj
-QzODQyNDk4XX0=
+eyJoaXN0b3J5IjpbLTMwOTQyOTAxMCwxNjgyNzIwNzAsLTE2ND
+M4NDI0OThdfQ==
 -->
