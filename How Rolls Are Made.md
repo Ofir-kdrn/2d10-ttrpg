@@ -22,12 +22,14 @@ Some harmful effects require a creature to make a saving throw to determined how
 
 # Advantage and Disadvantage
 Advantage & disadvantage are circumstantial effects.
-If you have advantage, for each advantage you have - roll an additional d10. When calculating the sum of your roll- choose the highest 2 rolls. (Example - if you have an advantage of 3, roll 5d10, and add together the highest 2 rolls).
+If you have advantage, for each advantage you have - roll an additional d10. 
+When calculating the sum of your roll- choose the highest 2 rolls. 
+(Example - if you have an advantage of 3, roll 5d10, and add together the highest 2 rolls).
 -   Advantage & disadvantage can stack with one another, or cancel each other out
 
 -   if you have disadvantage, for each disadvantage you have - roll an additional d10. When calculating the sum of your roll- choose the lowest 2 rolls. (Example - if you have a disadvantage of 3, roll 5d10, and add together the lowest 2 rolls).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM2ODI4NDcsLTE2NDM4NDI0OThdfQ
+eyJoaXN0b3J5IjpbLTE3MTUzMTA4NzksLTE2NDM4NDI0OThdfQ
 ==
 -->
