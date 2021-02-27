@@ -32,8 +32,8 @@ Advantage & disadvantage can stack with one another, or cancel each other out.
 
 Example: Vigo the ranger is ambushing a goblin scouting party. The goblins are surprised, so he has advantage on the attack roll. He is also hiding in the bushes, so he has another advantage. However- the goblins, however, are barely visible in the high brush, and enjoy half-cover, giving disadvantage to all attacks made against them. Totaling those circumstantial effects, Vigo has an advantage of 1 to the attack roll. So he rolls 3d10 and chooses the 2 highest numbers.
 
-Example 2: Elijah is trying to resist the effect of a cursed ring. He needs to make a Wisdom saving throw. He has the exhausted status effect, giving him disadvantage on saving throws. However, the 
+Example 2: The goblins recover from Vigo's surprise attack and move in to eliminate the threat. Their leader is giving his soldiers a moral boost, granting them advantage. However- the goblins failed to identify 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDIzMzQwLDE2ODI3MjA3MCwtMTY0Mz
+eyJoaXN0b3J5IjpbOTM4NDkwMjg2LDE2ODI3MjA3MCwtMTY0Mz
 g0MjQ5OF19
 -->
