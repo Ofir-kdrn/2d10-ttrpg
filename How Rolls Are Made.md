@@ -1,7 +1,7 @@
 Something something sometimes you need to roll a die to decide if a player succeeds or fails an something they are attempting to do. There are 3 common attempts:
  - [Attack roll](#Attack-roll)
- - Check
- - Saving throw
+ - [Check](#Check)
+ - [Saving throw](#Saving-throw)
  To make an attempt, the player or the DM rolls 2d10, add the results of both dice together and add any modifiers to the roll. If the roll is greater or equal to the DC - the attempt was successful.
  
 ## Attack Roll
@@ -17,7 +17,7 @@ Checks are.... [something something]. Like in D&D, checks can be either:
  - General check: Sometimes, you just need luck and nothing else.
 
 ## Saving throw
-
+Some harmful effects require a creature to make a saving throw to determined how they are affected by it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODk1ODA5NCwtMTY0Mzg0MjQ5OF19
+eyJoaXN0b3J5IjpbMTM1NjEyNTU0OSwtMTY0Mzg0MjQ5OF19
 -->
