@@ -30,7 +30,7 @@ If you have disadvantage, for each disadvantage you have - roll an additional d1
 
 Advantage & disadvantage can stack with one another, or cancel each other out.
 
-Example: Vigo the ranger is ambushing a goblin scouting party. The goblins are surprised, so he has advantage on the attack roll. He is also hiding in the bushes, so he has another advantage. However- the goblins are sc
+Example: Vigo the ranger is ambushing a goblin scouting party. The goblins are surprised, so he has advantage on the attack roll. He is also hiding in the bushes, so he has another advantage. However- the goblins, however, are crawl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NzA5OTEzLC0xNjQzODQyNDk4XX0=
+eyJoaXN0b3J5IjpbNzM3ODY2OTYyLC0xNjQzODQyNDk4XX0=
 -->
