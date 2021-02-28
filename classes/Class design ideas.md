@@ -8,16 +8,16 @@ Most of the class abilities will come from the **subclass**, while a few abiliti
 
 ![The 7 classes arranged around the class triangle](Class_triangle.png)
 
-## Warrior
+## [Warrior](Warrior.md)
 
-Heavily relies on [Stances](Core_Combat_Mechanics/Focus%20and%20Stance.md) and [Stamina points](Core_Combat_Mechanics/Stamina%20points). A warrior mainly uses weapons & armor to be a mighty foe in combat. They get Extra attacks and add  
+Heavily relies on [Stances](../Core_Combat_Mechanics/Focus%20and%20Stance.md) and [Stamina points](../Core_Combat_Mechanics/Stamina%20points). A warrior mainly uses weapons & armor to be a mighty foe in combat. They get Extra attacks and add  
 Warrior subclasses in mind:
 
 *   Battle Master
-*   Barbarian
+*   [Barbarian](Warrior-Barbarian.md)
 *   Cavalier
 
-## Mage
+## [Mage](Mage.md)
 
 Mages rely heavily on spellcasting in their adventuring career. Most mages will prefer to stay away from the front lines and support their party with buffs, crowd control and ranged powerful spells. Mages rely heavily on maintaining a Focus and managing their Spell Slots - which represents the magical energy the expend when casting powerful spells.
 
