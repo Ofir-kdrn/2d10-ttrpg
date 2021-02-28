@@ -2,7 +2,7 @@
 
 Something about this class.
 
-<table><tbody><tr><td>Level</td><td>Rage damage</td><td>Abilities</td></tr><tr><td>1</td><td>+2</td><td><a href="#Level-1---Rage">Rage</a>, <a href="#Level-1---Unarmored-defense">Unarmored defense</a>, <a href="#Level-1---Reckless (S)">Reckless</a></td></tr><tr><td>2</td><td>+2</td><td><a href="#Level-2--Danger-Sense-(S)">Danger Sense</a></td></tr><tr><td>3</td><td>+2</td><td><a href="#Level-3---Tunnel Vision">Tunnel Vision</a></td></tr></tbody></table>
+<table><tbody><tr><td>Level</td><td>Rage damage</td><td>Abilities</td></tr><tr><td>1</td><td>+2</td><td><a href="#Level-1---Rage">Rage</a>, <a href="#Level-1---Unarmored-defense">Unarmored defense</a>, <a href="#Level-1---Reckless-(S)">Reckless</a></td></tr><tr><td>2</td><td>+2</td><td><a href="#Level-2--Danger-Sense-(S)">Danger Sense</a></td></tr><tr><td>3</td><td>+2</td><td><a href="#Level-3---Tunnel-Vision">Tunnel Vision</a></td></tr></tbody></table>
 
 ## Level 1 - Rage
 
