@@ -20,6 +20,10 @@ Make a Stealth check contested by the target creature's perception check, if you
 
 When you reach 3rd level, you can forgo an advantage you have on an attack to deal an extra 1d8 damage. If you have more than one advantage on an attack, you can forgo some or all of them for the extra damage.
 
+## Cloak and Dagger
+
+When you hit a creature with a sneak attack with a melee weapon, you may forgo 1d8 of your sneak attack damage to move up to 10 feet without provoking attacks of opportunity
+
 ## Assassinate
 
 When you reach 7(???)th level, if you hit a creature that is surprised with a weapon attack, the attack is automatically considered a critical hit.
