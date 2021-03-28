@@ -1,6 +1,6 @@
 If you are reduced to 0 HP or lower, you go unconscious and start bleeding to death. 
 
-While bleeding to death in combat, you automatically move your initiative to be before the current turn.
+When you lose consciousness in combat, you automatically move your initiative to be before the current turn.
 
 If you accumulate 3 successful death saving throws - you are stabilized.
 
